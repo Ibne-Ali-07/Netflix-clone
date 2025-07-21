@@ -29,7 +29,7 @@ body{
 	background-color: black;
 }
 .main{
-	background-image: url('bg.jpeg');
+	background-image: url('./Assets/bg.jpeg');
 	background-position: center center ;
 	background-repeat: no-repeat ;
 	background-size: max(1500px, 100vw);
