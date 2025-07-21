@@ -356,7 +356,9 @@ footer{
 
 }
 .foot-item ul a{
-	padding: 8px;
+	padding: 8px !important;
+	all: unset;
+
 }
 .foot-item span{
 	
